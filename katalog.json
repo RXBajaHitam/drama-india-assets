@@ -168,6 +168,150 @@
           "json_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_01_asha_virasat/eps20/Gupt_Virasat_Eps20_data.json"
         }
       ]
+    },
+    {
+      "story_id": "story_02_badle_ki_aag",
+      "title": "बदले की आग (Dummy 2)",
+      "description": "जब एक निर्दोष पर झूठा आरोप लगता है, तो वह पूरी व्यवस्था को हिलाने के लिए वापस लौटता है।",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/dummy_cover_2.jpg",
+      "episodes": [
+        {
+          "episode_id": "eps_01",
+          "episode_title": "एपिसोड 1: डमी एपिसोड 1",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है। असली सामग्री जल्द ही अपलोड की जाएगी।",
+          "html_url": "https://dummyurl.com/eps01.html",
+          "mp3_url": "https://dummyurl.com/eps01.mp3",
+          "json_url": "https://dummyurl.com/eps01.json"
+        },
+        {
+          "episode_id": "eps_02",
+          "episode_title": "एपिसोड 2: डमी एपिसोड 2",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps02.html",
+          "mp3_url": "https://dummyurl.com/eps02.mp3",
+          "json_url": "https://dummyurl.com/eps02.json"
+        },
+        {
+          "episode_id": "eps_03",
+          "episode_title": "एपिसोड 3: डमी एपिसोड 3",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps03.html",
+          "mp3_url": "https://dummyurl.com/eps03.mp3",
+          "json_url": "https://dummyurl.com/eps03.json"
+        },
+        {
+          "episode_id": "eps_04",
+          "episode_title": "एपिसोड 4: डमी एपिसोड 4",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps04.html",
+          "mp3_url": "https://dummyurl.com/eps04.mp3",
+          "json_url": "https://dummyurl.com/eps04.json"
+        },
+        {
+          "episode_id": "eps_05",
+          "episode_title": "एपिसोड 5: डमी एपिसोड 5",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps05.html",
+          "mp3_url": "https://dummyurl.com/eps05.mp3",
+          "json_url": "https://dummyurl.com/eps05.json"
+        }
+      ]
+    },
+    {
+      "story_id": "story_03_adhuri_mohabbat",
+      "title": "अधूरी मोहब्बत (Dummy 3)",
+      "description": "दो अलग-अलग दुनिया के लोगों की कहानी, जिन्हें समाज कभी एक नहीं होने देगा।",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/dummy_cover_3.jpg",
+      "episodes": [
+        {
+          "episode_id": "eps_01",
+          "episode_title": "एपिसोड 1: डमी एपिसोड 1",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है। असली सामग्री जल्द ही अपलोड की जाएगी।",
+          "html_url": "https://dummyurl.com/eps01.html",
+          "mp3_url": "https://dummyurl.com/eps01.mp3",
+          "json_url": "https://dummyurl.com/eps01.json"
+        },
+        {
+          "episode_id": "eps_02",
+          "episode_title": "एपिसोड 2: डमी एपिसोड 2",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps02.html",
+          "mp3_url": "https://dummyurl.com/eps02.mp3",
+          "json_url": "https://dummyurl.com/eps02.json"
+        },
+        {
+          "episode_id": "eps_03",
+          "episode_title": "एपिसोड 3: डमी एपिसोड 3",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps03.html",
+          "mp3_url": "https://dummyurl.com/eps03.mp3",
+          "json_url": "https://dummyurl.com/eps03.json"
+        },
+        {
+          "episode_id": "eps_04",
+          "episode_title": "एपिसोड 4: डमी एपिसोड 4",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps04.html",
+          "mp3_url": "https://dummyurl.com/eps04.mp3",
+          "json_url": "https://dummyurl.com/eps04.json"
+        },
+        {
+          "episode_id": "eps_05",
+          "episode_title": "एपिसोड 5: डमी एपिसोड 5",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps05.html",
+          "mp3_url": "https://dummyurl.com/eps05.mp3",
+          "json_url": "https://dummyurl.com/eps05.json"
+        }
+      ]
+    },
+    {
+      "story_id": "story_04_haveli_ka_rahasya",
+      "title": "हवेली का रहस्य (Dummy 4)",
+      "description": "एक पुरानी हवेली जिसके बंद दरवाजों के पीछे 50 साल पुराना खौफनाक सच छिपा है।",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/dummy_cover_4.jpg",
+      "episodes": [
+        {
+          "episode_id": "eps_01",
+          "episode_title": "एपिसोड 1: डमी एपिसोड 1",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है। असली सामग्री जल्द ही अपलोड की जाएगी।",
+          "html_url": "https://dummyurl.com/eps01.html",
+          "mp3_url": "https://dummyurl.com/eps01.mp3",
+          "json_url": "https://dummyurl.com/eps01.json"
+        },
+        {
+          "episode_id": "eps_02",
+          "episode_title": "एपिसोड 2: डमी एपिसोड 2",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps02.html",
+          "mp3_url": "https://dummyurl.com/eps02.mp3",
+          "json_url": "https://dummyurl.com/eps02.json"
+        },
+        {
+          "episode_id": "eps_03",
+          "episode_title": "एपिसोड 3: डमी एपिसोड 3",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps03.html",
+          "mp3_url": "https://dummyurl.com/eps03.mp3",
+          "json_url": "https://dummyurl.com/eps03.json"
+        },
+        {
+          "episode_id": "eps_04",
+          "episode_title": "एपिसोड 4: डमी एपिसोड 4",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps04.html",
+          "mp3_url": "https://dummyurl.com/eps04.mp3",
+          "json_url": "https://dummyurl.com/eps04.json"
+        },
+        {
+          "episode_id": "eps_05",
+          "episode_title": "एपिसोड 5: डमी एपिसोड 5",
+          "episode_description": "यह एपिसोड केवल परीक्षण के लिए है।",
+          "html_url": "https://dummyurl.com/eps05.html",
+          "mp3_url": "https://dummyurl.com/eps05.mp3",
+          "json_url": "https://dummyurl.com/eps05.json"
+        }
+      ]
     }
   ]
 }
