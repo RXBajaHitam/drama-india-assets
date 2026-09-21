@@ -11,9 +11,9 @@
           "episode_id": "eps_01",
           "episode_title": "एपिसोड 1: आँगन की शाम",
           "episode_description": "परिवार में पहली बार सामाजिक प्रतिष्ठा और जाति को लेकर तकरार उभरती है; आशा का शांत स्वभाव और एक छोटी तिजोरी की चाबी पहली बार दृश्य में आती है।",
-          "html_url": "URL_HTML_EPS_01_DISINI",
-          "mp3_url": "URL_MP3_EPS_01_DISINI",
-          "json_url": "URL_JSON_EPS_01_DISINI"
+          "html_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_01_asha_virasat/eps01/Gupt_Virasat_Eps01.html",
+          "mp3_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_01_asha_virasat/eps01/Gupt_Virasat_Eps01.mp3",
+          "json_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_01_asha_virasat/eps01/Gupt_Virasat_Eps01_data.json"
         },
         {
           "episode_id": "eps_02",
