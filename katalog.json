@@ -1,5 +1,10 @@
 {
   "last_updated": "2026-09-21",
+  "ads_config": {
+    "show_ads": true,
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
+  },
   "stories": [
     {
       "story_id": "story_01_asha_virasat",
