@@ -1,29 +1,173 @@
 {
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-09-21",
   "stories": [
     {
-      "id": "eps_01",
-      "title": "Mertua Kejam dan Gelang Emas",
-      "description": "Drama perebutan gelang emas yang berujung tragis.",
-      "html_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps01/drama_01.html",
-      "mp3_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps01/drama_01.mp3",
-      "json_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps01/drama_01_data.json"
-    },
-    {
-      "id": "eps_02",
-      "title": "Balas Dendam Menantu Tajir",
-      "description": "Istri yang disia-siakan ternyata pewaris tunggal.",
-      "html_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps02/drama_02.html",
-      "mp3_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps02/drama_02_balasdendam.mp3",
-      "json_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps02/drama_02_balasdendam_data.json"
-    },
-    {
-      "id": "eps_03",
-      "title": "Menantu",
-      "description": "Rahasia kelam di balik harta mertua yang tiba-tiba lenyap.",
-      "html_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps03/drama_03.html",
-      "mp3_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps03/drama_03_menantu.mp3",
-      "json_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/eps03/drama_03_menantu_data.json"
+      "story_id": "story_01_asha_virasat",
+      "title": "आशा की गुप्त विरासत",
+      "description": "सामाजिक प्रतिष्ठा, लालच और एक छिपी हुई दौलत की कहानी। क्या आशा अपने सम्मान की रक्षा कर पाएगी?",
+      "cover_url": "https://raw.githubusercontent.com/.../cover_asha.jpg",
+      "episodes": [
+        {
+          "episode_id": "eps_01",
+          "episode_title": "एपिसोड 1: आँगन की शाम",
+          "episode_description": "परिवार में पहली बार सामाजिक प्रतिष्ठा और जाति को लेकर तकरार उभरती है; आशा का शांत स्वभाव और एक छोटी तिजोरी की चाबी पहली बार दृश्य में आती है।",
+          "html_url": "URL_HTML_EPS_01_DISINI",
+          "mp3_url": "URL_MP3_EPS_01_DISINI",
+          "json_url": "URL_JSON_EPS_01_DISINI"
+        },
+        {
+          "episode_id": "eps_02",
+          "episode_title": "एपिसोड 2: शक के बीज",
+          "episode_description": "नवविवाहिता की विनम्रता और परिवार की महत्वाकांक्षाएँ टकराती हैं; आस-पास की फुसफुसाहट और संदिग्ध निगाहें बढ़ती हैं।",
+          "html_url": "URL_HTML_EPS_02_DISINI",
+          "mp3_url": "URL_MP3_EPS_02_DISINI",
+          "json_url": "URL_JSON_EPS_02_DISINI"
+        },
+        {
+          "episode_id": "eps_03",
+          "episode_title": "एपिसोड 3: ममता बनाम महत्वाकांक्षा",
+          "episode_description": "सास की भौतिकवादी प्रवृत्ति खुले तौर पर दिखती है और घर में उपहार, रुतबे की माँग से तनाव पैदा होता है।",
+          "html_url": "URL_HTML_EPS_03_DISINI",
+          "mp3_url": "URL_MP3_EPS_03_DISINI",
+          "json_url": "URL_JSON_EPS_03_DISINI"
+        },
+        {
+          "episode_id": "eps_04",
+          "episode_title": "एपिसोड 4: जाति की परछाइयाँ",
+          "episode_description": "गाँव में चल रही अफवाहें और पुरानी परंपराएँ रिश्तों में दरारें लाती हैं; आशा चुप्पी से कुछ सहती हैं पर आँखों में सवाल हैं।",
+          "html_url": "URL_HTML_EPS_04_DISINI",
+          "mp3_url": "URL_MP3_EPS_04_DISINI",
+          "json_url": "URL_JSON_EPS_04_DISINI"
+        },
+        {
+          "episode_id": "eps_05",
+          "episode_title": "एपिसोड 5: छोटे त्याग",
+          "episode_description": "आशा साथी और परिवार के लिए छोटे-छोटे त्याग करती हैं; पर अपमान और सामाजिक दबाव कम होने का नाम नहीं लेते।",
+          "html_url": "URL_HTML_EPS_05_DISINI",
+          "mp3_url": "URL_MP3_EPS_05_DISINI",
+          "json_url": "URL_JSON_EPS_05_DISINI"
+        },
+        {
+          "episode_id": "eps_06",
+          "episode_title": "एपिसोड 6: अनाम लिफाफा",
+          "episode_description": "एक अनाम लिफाफा घर पहुँचता है; उसमें छिपे संकेत धीरे-धीरे रहस्य की ओर इशारा करते हैं।",
+          "html_url": "URL_HTML_EPS_06_DISINI",
+          "mp3_url": "URL_MP3_EPS_06_DISINI",
+          "json_url": "URL_JSON_EPS_06_DISINI"
+        },
+        {
+          "episode_id": "eps_07",
+          "episode_title": "एपिसोड 7: समाज की परीक्षा",
+          "episode_description": "आर्थिक और सामाजिक नुकसानों का सामना करते हुए परिवार के रिश्ते पर सार्वजनिक मतभेद और परीक्षा आती है।",
+          "html_url": "URL_HTML_EPS_07_DISINI",
+          "mp3_url": "URL_MP3_EPS_07_DISINI",
+          "json_url": "URL_JSON_EPS_07_DISINI"
+        },
+        {
+          "episode_id": "eps_08",
+          "episode_title": "एपिसोड 8: दया या चाल",
+          "episode_description": "आशा चुपचाप मदद करती दिखती हैं; पर परदे के पीछे कुछ गुप्त कदम उठाए जा रहे हैं जो संकेत और गहरे करते हैं।",
+          "html_url": "URL_HTML_EPS_08_DISINI",
+          "mp3_url": "URL_MP3_EPS_08_DISINI",
+          "json_url": "URL_JSON_EPS_08_DISINI"
+        },
+        {
+          "episode_id": "eps_09",
+          "episode_title": "एपिसोड 9: आरोप और तनते तार",
+          "episode_description": "सास के आरोप तीखे हो जाते हैं, परिवार विभाजित होता है और विश्वास के तार खिंचते हैं—किसी बड़ी टकराहट की आहट।",
+          "html_url": "URL_HTML_EPS_09_DISINI",
+          "mp3_url": "URL_MP3_EPS_09_DISINI",
+          "json_url": "URL_JSON_EPS_09_DISINI"
+        },
+        {
+          "episode_id": "eps_10",
+          "episode_title": "एपिसोड 10: खुलासा",
+          "episode_description": "बड़े सामाजिक सभा में आशा का छिपा हुआ वैभव प्रकट होता है; घर और गाँव में हड़कंप मचता है और रिश्तों का संतुलन पलट जाता है।",
+          "html_url": "URL_HTML_EPS_10_DISINI",
+          "mp3_url": "URL_MP3_EPS_10_DISINI",
+          "json_url": "URL_JSON_EPS_10_DISINI"
+        },
+        {
+          "episode_id": "eps_11",
+          "episode_title": "एपिसोड 11: दौलत का प्रभाव",
+          "episode_description": "धन के खुलासे के बाद रिश्तों में बदलाव और स्वार्थी निकटता सामने आती है; कौन सच्चा है और कौन मौका तलाश रहा है, यह साफ हो रहा है।",
+          "html_url": "URL_HTML_EPS_11_DISINI",
+          "mp3_url": "URL_MP3_EPS_11_DISINI",
+          "json_url": "URL_JSON_EPS_11_DISINI"
+        },
+        {
+          "episode_id": "eps_12",
+          "episode_title": "एपिसोड 12: मतलबी मोह",
+          "episode_description": "सास अस्थायी रूप से व्यवहार बदलती दिखती हैं पर उसके इरादों पर संदेह बना रहता है; बाहरी प्रस्ताव और फायदे उभरते हैं।",
+          "html_url": "URL_HTML_EPS_12_DISINI",
+          "mp3_url": "URL_MP3_EPS_12_DISINI",
+          "json_url": "URL_JSON_EPS_12_DISINI"
+        },
+        {
+          "episode_id": "eps_13",
+          "episode_title": "एपिसोड 13: जाति या पैसा?",
+          "episode_description": "गाँव दो हिस्सों में बँटता है—कुछ प्रतिष्ठा को तरजीह देते हैं, कुछ अवसरवादी बनते हैं; सामाजिक नैतिकता पर बहस गरमाती है।",
+          "html_url": "URL_HTML_EPS_13_DISINI",
+          "mp3_url": "URL_MP3_EPS_13_DISINI",
+          "json_url": "URL_JSON_EPS_13_DISINI"
+        },
+        {
+          "episode_id": "eps_14",
+          "episode_title": "एपिसोड 14: झूठ का जाल",
+          "episode_description": "नकली दस्तावेज़ और दुष्प्रचार फैलते हैं; आशा के विरुद्ध मानहानि के आरोप उभरते हैं और उनका नाम दागदार किया जाता है।",
+          "html_url": "URL_HTML_EPS_14_DISINI",
+          "mp3_url": "URL_MP3_EPS_14_DISINI",
+          "json_url": "URL_JSON_EPS_14_DISINI"
+        },
+        {
+          "episode_id": "eps_15",
+          "episode_title": "एपिसोड 15: विश्वास का संकट",
+          "episode_description": "साथी के मन में संदेह उबलता है; निजी बातों का बोझ रिश्ते पर भारी पड़ता है और दूरी बढ़ने लगती है।",
+          "html_url": "URL_HTML_EPS_15_DISINI",
+          "mp3_url": "URL_MP3_EPS_15_DISINI",
+          "json_url": "URL_JSON_EPS_15_DISINI"
+        },
+        {
+          "episode_id": "eps_16",
+          "episode_title": "एपिसोड 16: सत्य का अंश",
+          "episode_description": "आशा अपना अतीत और छिपे हुए कारणों का कुछ हिस्सा खोलती हैं; हालात की पृष्ठभूमि समझ में आने लगती है और सहानुभूति जगती है।",
+          "html_url": "URL_HTML_EPS_16_DISINI",
+          "mp3_url": "URL_MP3_EPS_16_DISINI",
+          "json_url": "URL_JSON_EPS_16_DISINI"
+        },
+        {
+          "episode_id": "eps_17",
+          "episode_title": "एपिसोड 17: सम्मान की बहस",
+          "episode_description": "साथी सास का सामना करता/करती है और परिवार के वास्तविक सम्मान व गरिमा पर सवाल उठते हैं; एक संवेदनशील टकराव होता है।",
+          "html_url": "URL_HTML_EPS_17_DISINI",
+          "mp3_url": "URL_MP3_EPS_17_DISINI",
+          "json_url": "URL_JSON_EPS_17_DISINI"
+        },
+        {
+          "episode_id": "eps_18",
+          "episode_title": "एपिसोड 18: पुराना दुश्मन",
+          "episode_description": "एक पुराना प्रतिद्वंद्वी वापस आता है जो परिवार की प्रतिष्ठा और वित्तीय स्थिति को निशाना बनाता है; संकट गहरा जाता है।",
+          "html_url": "URL_HTML_EPS_18_DISINI",
+          "mp3_url": "URL_MP3_EPS_18_DISINI",
+          "json_url": "URL_JSON_EPS_18_DISINI"
+        },
+        {
+          "episode_id": "eps_19",
+          "episode_title": "एपिसोड 19: साक्ष्य और समझौता",
+          "episode_description": "आशा और परिवार मिलकर आरोपों का सामना करते हैं, साक्ष्यों का पर्दाफाश करते हैं और सामुदायिक समर्थन जुटाते हैं।",
+          "html_url": "URL_HTML_EPS_19_DISINI",
+          "mp3_url": "URL_MP3_EPS_19_DISINI",
+          "json_url": "URL_JSON_EPS_19_DISINI"
+        },
+        {
+          "episode_id": "eps_20",
+          "episode_title": "एपिसोड 20: सुलह और संकेत",
+          "episode_description": "मुख्य संघर्ष का सार्वजनिक समाधान होता है; परिवार करीब आता है, पर घर की मेज पर एक बंद लिफाफा मिलता है—नया रहस्य जो दूसरे सत्र के लिए दरवाज़ा खोलता है।",
+          "html_url": "URL_HTML_EPS_20_DISINI",
+          "mp3_url": "URL_MP3_EPS_20_DISINI",
+          "json_url": "URL_JSON_EPS_20_DISINI"
+        }
+      ]
     }
   ]
 }
