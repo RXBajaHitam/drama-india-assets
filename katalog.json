@@ -180,7 +180,7 @@
       "story_id": "story_02_Pratishodh_Ek_Chhal",
       "title": "प्रतिशोध: एक छल",
       "description": एक निर्दोष जिसे अपनों ने ही धोखा दिया। 10 साल बाद, वह एक नया चेहरा और नया नाम लेकर लौटा है। क्या उसका बदला पूरा होगा?",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/dummy_cover_2.jpg",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_02_Pratishodh_Ek_Chhal/cover_pratishodh.jpg",
       "episodes": [
         {
           "episode_id": "eps_01",
@@ -228,7 +228,7 @@
       "story_id": "story_03_Faasle_Ishq_Ke",
       "title": "फासले इश्क़ के",
       "description": "ददो अलग-अलग दुनिया के लोगों की बेइंतहा मोहब्बत, जिसे समाज और परिवार ने कभी नहीं स्वीकारा। एक ऐसी प्रेम कहानी जो आपको रुला देगी।",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/dummy_cover_3.jpg",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_03_Faasle_Ishq_Ke/cover_faasle.jpg",
       "episodes": [
         {
           "episode_id": "eps_01",
@@ -276,7 +276,7 @@
       "story_id": "story_04_Raat_Ka_Saaya_Khamosh_Haveli",
       "title": "रात का साया: खामोश हवेली",
       "description": "एक सदियों पुरानी हवेली, जिसके बंद दरवाजों के पीछे से हर रात पायल की आवाजें आती हैं। इस हवेली का खौफनाक सच क्या है?",
-      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/dummy_cover_4.jpg",
+      "cover_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_04_Raat_Ka_Saaya_Khamosh_Haveli/cover_haveli.jpg",
       "episodes": [
         {
           "episode_id": "eps_01",
