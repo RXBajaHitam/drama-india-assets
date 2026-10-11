@@ -186,7 +186,7 @@
           "episode_id": "eps_01",
           "episode_title": "एपिसोड 1: डमी एपिसोड 1",
           "episode_description": "यह एपिसोड केवल परीक्षण के लिए है। असली सामग्री जल्द ही अपलोड की जाएगी।",
-          "html_url": "https://dummyurl.com/eps01.html",
+          "html_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_02_Pratishodh_Ek_Chhal/eps01/eps01.html",
           "mp3_url": "https://dummyurl.com/eps01.mp3",
           "json_url": "https://dummyurl.com/eps01.json"
         },
