@@ -221,6 +221,14 @@
           "html_url": "https://dummyurl.com/eps05.html",
           "mp3_url": "https://dummyurl.com/eps05.mp3",
           "json_url": "https://dummyurl.com/eps05.json"
+        },
+        {
+          "episode_id": "eps01",
+          "episode_title": "एपिसोड 1: वापसी की रात",
+          "episode_description": "10 साल बाद, एक अनजान अरबपति शहर में कदम रखता है। उसका लक्ष्य सिर्फ एक है: राजनाथ सिंह को बर्बाद करना।",
+          "html_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_02_Pratishodh_Ek_Chhal/eps01/eps01.html",
+          "mp3_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_02_Pratishodh_Ek_Chhal/eps01/eps01.mp3",
+          "json_url": "https://raw.githubusercontent.com/RXBajaHitam/drama-india-assets/main/story_02_Pratishodh_Ek_Chhal/eps01/eps01_data.json"
         }
       ]
     },
